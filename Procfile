@@ -1,1 +1,1 @@
-worker. dupa.py
+worker: python bot.py
