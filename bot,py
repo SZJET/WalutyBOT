@@ -14,4 +14,4 @@ async def on_message(message):
   if message.content.startswith('!ping'):
    channel = message.channel
    await channel.send('http://api.nbp.pl/api/cenyzlota')
-client.run('NTkzMjA4MjMzMjM0MjY4MTcw.XRKzZw.Lx-vMnbaOrwTXJpz7XSGRfngtrw')
+client.run('NTkzMjA4MjMzMjM0MjY4MTcw.XRUqnQ.081Mh917gQzHvZhqJn1jKt_gpJw')
